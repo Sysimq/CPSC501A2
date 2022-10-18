@@ -14,6 +14,7 @@ https://www.kaggle.com/datasets/adityadesai13/used-car-dataset-ford-and-mercedes
 This fulfills the requriements of minimal dataset makeup
 
 This is a screenshot to show what the data looks like
+
 ![Alt text](/data_screenshot.png?raw=true)
 
 
