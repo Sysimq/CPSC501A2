@@ -15,7 +15,7 @@ This fulfills the requriements of minimal dataset makeup
 
 This is a screenshot to show what the data looks like
 
-![Alt text](/data_screenshot.png?raw=true)
+![Alt text](/participation/data_screenshot.png?raw=true)
 
 
 
