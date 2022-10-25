@@ -8,7 +8,7 @@ https://www.kaggle.com/datasets/adityadesai13/used-car-dataset-ford-and-mercedes
 - it has 1 table
 - it has 9 coloumns
 - it has 6 numerical columns and 3 text/category columns.
-- The numberical output column is median used car value
+- The numberical output column is used car value
 - There are 100,000 rows.
 
 This fulfills the requriements of minimal dataset makeup
