@@ -8,7 +8,7 @@ The Main machine learning problem is to find a dataset, load this dataset into P
 
 The inter-leaved smaller three machine learning problems (Part1/Part2/Part3) are the following: Part 1 is to improve the logistic regression accuracy of a MNIST digit image recognition model. Part 2 is to replace the MNIST image data with a harder set of letter representation data and train a good model for it. Part 3 is to create and develop a model for data loaded from a CSV file about Coronary Heart Disease and associated risk factors. These three smaller problems are designed to give you a chance to explore different aspects of TensorFlow and then apply learned lessons to the Main larger problem.
 
-Dataset:
+Main Dataset:
 
 11 clinical features for predicting heart disease events. This dataset was created by combining different datasets already available independently but not combined before. In this dataset, 5 heart datasets are combined over 11 common features which makes it the largest heart disease dataset available so far for research purposes. 
 
